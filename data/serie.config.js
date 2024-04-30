@@ -1,38 +1,30 @@
 const config = {
   "lang": "es",
   "localPort": "5173",
-  "base": "https://srsergiorodriguez.github.io",
-  "baseurl": "/serie-mini",
-  "title": "Serie Mini",
-  "subtitle": "Un sistema para mini colecciones digitales",
+  "base": "https://alekitos.github.io",
+  "baseurl": "/memes-frenologia",
+  "title": "Mandíbulas Morales",
+  "subtitle": "po definir tenemos",
   "credits": "Por Sergio Rodríguez Gómez",
   "copyright": "Todos los derechos reservados, 2024",
-  "logos": [
-    {img: "logos/logo.png", link: "https://github.com/srsergiorodriguez/serie-mini"}
-  ],
   "pages": {
     "iiifViewer": true,
     "metadataToShow": [
       {
         "key": "label",
-        "label": "Nombre",
+        "label": "Label",
         "type": "text"
       },
       {
-        "key": "autor",
-        "label": "Autor",
-        "type": "text"
-      },
-      {
-        "key": "fecha",
-        "label": "Fecha",
+        "key": "tipo",
+        "label": "Tipo",
         "type": "text"
       }
     ],
     "metadataToIndex": [
+      "pid",
       "label",
-      "autor",
-      "fecha"
+      "tipo"
     ]
   }
 };

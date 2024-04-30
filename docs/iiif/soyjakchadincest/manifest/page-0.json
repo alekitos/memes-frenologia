@@ -1,0 +1,21 @@
+{
+  "id": "https://alekitos.github.io/memes-frenologia/iiif/soyjakchadincest/manifest/page-0.json",
+  "items": [
+    {
+      "id": "https://alekitos.github.io/memes-frenologia/iiif/soyjakchadincest/manifest/image-0.json",
+      "items": [],
+      "type": "Annotation",
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "motivation": "painting",
+      "target": "https://alekitos.github.io/memes-frenologia/iiif/soyjakchadincest/manifest/canvas-0.json",
+      "body": {
+        "id": "https://alekitos.github.io/memes-frenologia/iiif/soyjakchadincest/0/full/max/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 577,
+        "width": 680
+      }
+    }
+  ],
+  "type": "AnnotationPage"
+}

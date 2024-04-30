@@ -12,7 +12,7 @@ Para poner una imagen correspondiente a un ítem de la colección en este recorr
 
 Así:
 
-![TEST](!AdriaenCollaert)
+![TEST](!soyjakchadincest)
 
 Puedes usar urls de imágenes externas con normalidad en el formato Markdown si no sigues esta convención.
 

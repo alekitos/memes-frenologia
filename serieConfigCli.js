@@ -225,3 +225,5 @@ async function parseMetadata() {
 
   return metadata
 }
+
+function errorMsg(type,msg){console.log(type,msg);}
