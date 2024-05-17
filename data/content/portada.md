@@ -4,13 +4,8 @@ name: home
 
 # Introducción
 
-Esta es una plantilla para la creación de coleciones culturales digitales basada en Svelte
+Bienvenidos a "Mandíbulas Morales", una exposición digital única que presenta una curaduría meticulosa de memes e imágenes frenológicas. Esta exposición es el corazón de una tesis de maestría homónima, diseñada para explorar las intersecciones entre la cultura visual contemporánea y las teorías científicas históricas.
 
-Es similar a otros sistemas de computación mínima, como [Wax](https://minicomp.github.io/wax/) o [Collection Builder](https://collectionbuilder.github.io/), pero tiene como fin ser una herramienta educativa para las humanidades digitales acerca de conceptos esenciales relacionados con colecciones digitales (metadatos, ítems, protocolos, narrativas).
+Aquí, los visitantes pueden sumergirse en una colección diversa y provocativa, donde cada pieza ha sido seleccionada por su relevancia y capacidad para incitar al diálogo y a la reflexión. La plataforma permite filtrar las imágenes por categorías, facilitando a los usuarios la tarea de hacer conexiones y descubrir patrones en la forma en que los memes y la frenología se entrelazan y se reflejan mutuamente.
 
-En particular, Serie Mini tiene las siguientes características:
-
-- Interfaz en español
-- Es fácil de instalar (El código está basado en Svelte, no en Jekyll. No requiere contentedores de Docker)
-- Es fácil de usar (Tiene una interfaz CLI que guía en el proceso de configuración y todos los elementos de la colección se disponen en una carpeta particular)
-- Es fácil de publicar en Github Pages por defecto
+Invitamos a todos a navegar por esta exposición, a interactuar con el contenido y a participar en la construcción de un entendimiento más profundo de cómo las imágenes y los memes pueden servir como espejos de nuestras creencias y comportamientos sociales. 
