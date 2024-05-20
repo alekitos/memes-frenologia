@@ -1,0 +1,11 @@
+{
+  "id": "https://alekitos.github.io/memes-frenologia/iiif/gigachad_countries.jpeg/manifest/manifest.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": [
+      "memes"
+    ]
+  },
+  "items": []
+}
