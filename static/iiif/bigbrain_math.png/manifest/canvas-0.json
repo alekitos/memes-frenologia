@@ -1,0 +1,30 @@
+{
+  "id": "https://alekitos.github.io/memes-frenologia/iiif/bigbrain_math.png/manifest/canvas-0.json",
+  "items": [
+    {
+      "id": "https://alekitos.github.io/memes-frenologia/iiif/bigbrain_math.png/manifest/page-0.json",
+      "items": [
+        {
+          "id": "https://alekitos.github.io/memes-frenologia/iiif/bigbrain_math.png/manifest/image-0.json",
+          "items": [],
+          "type": "Annotation",
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "motivation": "painting",
+          "target": "https://alekitos.github.io/memes-frenologia/iiif/bigbrain_math.png/manifest/canvas-0.json",
+          "body": {
+            "id": "https://alekitos.github.io/memes-frenologia/iiif/bigbrain_math.png/0/full/max/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 581,
+            "width": 500
+          }
+        }
+      ],
+      "type": "AnnotationPage"
+    }
+  ],
+  "type": "Canvas",
+  "width": 500,
+  "height": 581,
+  "annotations": []
+}

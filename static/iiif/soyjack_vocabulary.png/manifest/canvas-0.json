@@ -1,0 +1,30 @@
+{
+  "id": "https://alekitos.github.io/memes-frenologia/iiif/soyjack_vocabulary.png/manifest/canvas-0.json",
+  "items": [
+    {
+      "id": "https://alekitos.github.io/memes-frenologia/iiif/soyjack_vocabulary.png/manifest/page-0.json",
+      "items": [
+        {
+          "id": "https://alekitos.github.io/memes-frenologia/iiif/soyjack_vocabulary.png/manifest/image-0.json",
+          "items": [],
+          "type": "Annotation",
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "motivation": "painting",
+          "target": "https://alekitos.github.io/memes-frenologia/iiif/soyjack_vocabulary.png/manifest/canvas-0.json",
+          "body": {
+            "id": "https://alekitos.github.io/memes-frenologia/iiif/soyjack_vocabulary.png/0/full/max/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1000,
+            "width": 1500
+          }
+        }
+      ],
+      "type": "AnnotationPage"
+    }
+  ],
+  "type": "Canvas",
+  "width": 1500,
+  "height": 1000,
+  "annotations": []
+}
