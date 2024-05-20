@@ -1,0 +1,42 @@
+{
+  "id": "https://alekitos.github.io/memes-frenologia/iiif/dogevscheems_darkmode.jpg/manifest/manifest.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": [
+      "memes"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://alekitos.github.io/memes-frenologia/iiif/dogevscheems_darkmode.jpg/manifest/canvas-0.json",
+      "items": [
+        {
+          "id": "https://alekitos.github.io/memes-frenologia/iiif/dogevscheems_darkmode.jpg/manifest/page-0.json",
+          "items": [
+            {
+              "id": "https://alekitos.github.io/memes-frenologia/iiif/dogevscheems_darkmode.jpg/manifest/image-0.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://alekitos.github.io/memes-frenologia/iiif/dogevscheems_darkmode.jpg/manifest/canvas-0.json",
+              "body": {
+                "id": "https://alekitos.github.io/memes-frenologia/iiif/dogevscheems_darkmode.jpg/0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 747,
+                "width": 1200
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1200,
+      "height": 747,
+      "annotations": []
+    }
+  ]
+}

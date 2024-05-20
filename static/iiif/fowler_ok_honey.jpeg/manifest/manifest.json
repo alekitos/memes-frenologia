@@ -1,0 +1,11 @@
+{
+  "id": "https://alekitos.github.io/memes-frenologia/iiif/fowler_ok_honey.jpeg/manifest/manifest.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": [
+      "frenologia"
+    ]
+  },
+  "items": []
+}

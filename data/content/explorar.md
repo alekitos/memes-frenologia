@@ -1,10 +1,11 @@
 ---
 name: explore
-galleryFilters: ["label"] ## Lista de metadatos para ampliar el filtro de la galería. p.e. ["pid", "label"]
+galleryFilters: ["label","subcollection","autor","year","moral"] ## Lista de metadatos para ampliar el filtro de la galería. p.e. ["pid", "label"]
 ---
 
 # Explorar
 
-Usa los componentes interactivos para explorar los ítems de la colección:
+¡Explora las imágenes de la curaduría!
+
 
 <!-- La barra de búsqueda y la galería se cargan automáticamente -->
