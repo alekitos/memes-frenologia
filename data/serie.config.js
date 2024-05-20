@@ -4,8 +4,8 @@ const config = {
   "base": "https://alekitos.github.io",
   "baseurl": "/memes-frenologia",
   "title": "Mandíbulas Morales",
-  "subtitle": "po definir tenemos",
-  "credits": "Por Sergio Rodríguez Gómez",
+  "subtitle": "Sobre la retórica visual frenológica en memes de internet.",
+  "credits": "Por Alek Aune",
   "copyright": "Todos los derechos reservados, 2024",
   "pages": {
     "iiifViewer": true,
