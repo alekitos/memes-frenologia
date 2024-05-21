@@ -1,0 +1,15 @@
+{
+  "id": "https://alekitos.github.io/frenologia-memes/iiif/weakest_scottland/manifest/image-0.json",
+  "items": [],
+  "type": "Annotation",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "motivation": "painting",
+  "target": "https://alekitos.github.io/frenologia-memes/iiif/weakest_scottland/manifest/canvas-0.json",
+  "body": {
+    "id": "https://alekitos.github.io/frenologia-memes/iiif/weakest_scottland/0/full/max/0/default.jpg",
+    "type": "Image",
+    "format": "image/jpeg",
+    "height": 617,
+    "width": 640
+  }
+}

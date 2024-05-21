@@ -1,0 +1,21 @@
+{
+  "id": "https://alekitos.github.io/frenologia-memes/iiif/vaught_ballanced/manifest/page-0.json",
+  "items": [
+    {
+      "id": "https://alekitos.github.io/frenologia-memes/iiif/vaught_ballanced/manifest/image-0.json",
+      "items": [],
+      "type": "Annotation",
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "motivation": "painting",
+      "target": "https://alekitos.github.io/frenologia-memes/iiif/vaught_ballanced/manifest/canvas-0.json",
+      "body": {
+        "id": "https://alekitos.github.io/frenologia-memes/iiif/vaught_ballanced/0/full/max/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 565,
+        "width": 489
+      }
+    }
+  ],
+  "type": "AnnotationPage"
+}

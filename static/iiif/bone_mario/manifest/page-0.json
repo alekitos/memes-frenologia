@@ -1,0 +1,21 @@
+{
+  "id": "https://alekitos.github.io/frenologia-memes/iiif/bone_mario/manifest/page-0.json",
+  "items": [
+    {
+      "id": "https://alekitos.github.io/frenologia-memes/iiif/bone_mario/manifest/image-0.json",
+      "items": [],
+      "type": "Annotation",
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "motivation": "painting",
+      "target": "https://alekitos.github.io/frenologia-memes/iiif/bone_mario/manifest/canvas-0.json",
+      "body": {
+        "id": "https://alekitos.github.io/frenologia-memes/iiif/bone_mario/0/full/max/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 384,
+        "width": 618
+      }
+    }
+  ],
+  "type": "AnnotationPage"
+}

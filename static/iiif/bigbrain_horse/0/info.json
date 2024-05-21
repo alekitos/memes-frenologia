@@ -1,0 +1,18 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://alekitos.github.io/frenologia-memes/iiif/bigbrain_horse/0",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2
+      ],
+      "width": 512
+    }
+  ],
+  "width": 1420,
+  "height": 1030
+}

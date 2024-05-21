@@ -1,0 +1,21 @@
+{
+  "id": "https://alekitos.github.io/frenologia-memes/iiif/brainlet_no_head/manifest/page-0.json",
+  "items": [
+    {
+      "id": "https://alekitos.github.io/frenologia-memes/iiif/brainlet_no_head/manifest/image-0.json",
+      "items": [],
+      "type": "Annotation",
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "motivation": "painting",
+      "target": "https://alekitos.github.io/frenologia-memes/iiif/brainlet_no_head/manifest/canvas-0.json",
+      "body": {
+        "id": "https://alekitos.github.io/frenologia-memes/iiif/brainlet_no_head/0/full/max/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 729,
+        "width": 645
+      }
+    }
+  ],
+  "type": "AnnotationPage"
+}
