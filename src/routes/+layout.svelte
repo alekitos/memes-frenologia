@@ -9,9 +9,9 @@
 <style>
   :global(:root){
     --stroke: black; /* Font color */
-    --fill: #fdfcfa; /* Background color */
-    --accent1: #c9e2ef; /* Main color */
-    --accent2: #0b456c; /* Higlights color */
+    --fill: #ffefd0; /* Background color */
+    --accent1: #b18b4a; /* Main color */
+    --accent2: #191514; /* Higlights color */
     --mainfont: "Lato", sans-serif;
     --headerfont: "Lato", sans-serif;
     font-family: var(--mainfont);
