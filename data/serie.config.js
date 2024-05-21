@@ -4,12 +4,17 @@ const config = {
   "base": "https://alekitos.github.io",
   "baseurl": "/memes-frenologia",
   "title": "Mandíbulas Morales",
-  "subtitle": "Sobre la retórica visual frenológica en memes",
-  "credits": "por Alek Aune",
+  "subtitle": "Sobre la reórica visual frenológica en memes",
+  "credits": "Alek Aune COnrad, 2024",
   "copyright": "Todos los derechos reservados, 2024",
   "pages": {
     "iiifViewer": true,
     "metadataToShow": [
+      {
+        "key": "pid",
+        "label": "Pid",
+        "type": "text"
+      },
       {
         "key": "label",
         "label": "Label",
@@ -48,7 +53,6 @@ const config = {
     ],
     "metadataToIndex": [
       "label",
-      "title",
       "subcollection",
       "autor",
       "year",
