@@ -1,12 +1,12 @@
 {
-  "id": "https://alekitos.github.io/memes-frenologia/iiif/iqcueve_academia.png/manifest/image-0.json",
+  "id": "https://alekitos.github.io/frenologia-memes/iiif/iqcueve_academia.png/manifest/image-0.json",
   "items": [],
   "type": "Annotation",
   "@context": "http://www.w3.org/ns/anno.jsonld",
   "motivation": "painting",
-  "target": "https://alekitos.github.io/memes-frenologia/iiif/iqcueve_academia.png/manifest/canvas-0.json",
+  "target": "https://alekitos.github.io/frenologia-memes/iiif/iqcueve_academia.png/manifest/canvas-0.json",
   "body": {
-    "id": "https://alekitos.github.io/memes-frenologia/iiif/iqcueve_academia.png/0/full/max/0/default.jpg",
+    "id": "https://alekitos.github.io/frenologia-memes/iiif/iqcueve_academia.png/0/full/max/0/default.jpg",
     "type": "Image",
     "format": "image/jpeg",
     "height": 1200,

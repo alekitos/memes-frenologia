@@ -1,28 +1,28 @@
 {
-  "id": "https://alekitos.github.io/memes-frenologia/iiif/virginchad_youtube.png/manifest/manifest.json",
+  "id": "https://alekitos.github.io/frenologia-memes/iiif/virginchad_youtube.png/manifest/manifest.json",
   "type": "Manifest",
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "label": {
     "en": [
-      "memes"
+      "virginchad_youtube"
     ]
   },
   "items": [
     {
-      "id": "https://alekitos.github.io/memes-frenologia/iiif/virginchad_youtube.png/manifest/canvas-0.json",
+      "id": "https://alekitos.github.io/frenologia-memes/iiif/virginchad_youtube.png/manifest/canvas-0.json",
       "items": [
         {
-          "id": "https://alekitos.github.io/memes-frenologia/iiif/virginchad_youtube.png/manifest/page-0.json",
+          "id": "https://alekitos.github.io/frenologia-memes/iiif/virginchad_youtube.png/manifest/page-0.json",
           "items": [
             {
-              "id": "https://alekitos.github.io/memes-frenologia/iiif/virginchad_youtube.png/manifest/image-0.json",
+              "id": "https://alekitos.github.io/frenologia-memes/iiif/virginchad_youtube.png/manifest/image-0.json",
               "items": [],
               "type": "Annotation",
               "@context": "http://www.w3.org/ns/anno.jsonld",
               "motivation": "painting",
-              "target": "https://alekitos.github.io/memes-frenologia/iiif/virginchad_youtube.png/manifest/canvas-0.json",
+              "target": "https://alekitos.github.io/frenologia-memes/iiif/virginchad_youtube.png/manifest/canvas-0.json",
               "body": {
-                "id": "https://alekitos.github.io/memes-frenologia/iiif/virginchad_youtube.png/0/full/max/0/default.jpg",
+                "id": "https://alekitos.github.io/frenologia-memes/iiif/virginchad_youtube.png/0/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1424,
