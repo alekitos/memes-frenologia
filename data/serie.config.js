@@ -2,22 +2,17 @@ const config = {
   "lang": "es",
   "localPort": "5173",
   "base": "https://alekitos.github.io",
-  "baseurl": "/memes-frenologia",
+  "baseurl": "/frenologia-memes",
   "title": "Mandíbulas Morales",
-  "subtitle": "Iconografía y Retórica Visual Frenológica en Memes",
-  "credits": "Por Alek Aune Conrad.",
-  "copyright": "Para el uso público y abierto.",
+  "subtitle": "Sobre la iconografía y la retórica visual frenológica e en memes ",
+  "credits": "Po Alek Aune Conrad, 2024",
+  "copyright": "Para uso abierto. ",
   "pages": {
     "iiifViewer": true,
     "metadataToShow": [
       {
-        "key": "label",
-        "label": "Label",
-        "type": "text"
-      },
-      {
-        "key": "title",
-        "label": "Title",
+        "key": "collection",
+        "label": "Collection",
         "type": "text"
       },
       {
@@ -39,20 +34,16 @@ const config = {
         "key": "moral",
         "label": "Moral",
         "type": "text"
-      },
-      {
-        "key": "link",
-        "label": "Link",
-        "type": "text"
       }
     ],
     "metadataToIndex": [
       "label",
-      "title",
+      "collection",
       "subcollection",
       "autor",
       "year",
-      "moral"
+      "moral",
+      "link"
     ]
   }
 };
