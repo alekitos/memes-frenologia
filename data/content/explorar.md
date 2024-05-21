@@ -1,6 +1,6 @@
 ---
 name: explore
-galleryFilters: ["label","subcollection","autor","year","moral"] ## Lista de metadatos para ampliar el filtro de la galería. p.e. ["pid", "label"]
+galleryFilters: ["collection","subcollection","autor","year","moral"] ## Lista de metadatos para ampliar el filtro de la galería. p.e. ["pid", "label"]
 ---
 
 # Explorar
