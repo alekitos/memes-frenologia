@@ -1,0 +1,42 @@
+{
+  "id": "https://alekitos.github.io/frenologia-memes/iiif/vaughtsanta/manifest/manifest.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": [
+      "vaught_santa"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://alekitos.github.io/frenologia-memes/iiif/vaughtsanta/manifest/canvas-0.json",
+      "items": [
+        {
+          "id": "https://alekitos.github.io/frenologia-memes/iiif/vaughtsanta/manifest/page-0.json",
+          "items": [
+            {
+              "id": "https://alekitos.github.io/frenologia-memes/iiif/vaughtsanta/manifest/image-0.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://alekitos.github.io/frenologia-memes/iiif/vaughtsanta/manifest/canvas-0.json",
+              "body": {
+                "id": "https://alekitos.github.io/frenologia-memes/iiif/vaughtsanta/0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 760,
+                "width": 507
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 507,
+      "height": 760,
+      "annotations": []
+    }
+  ]
+}

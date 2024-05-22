@@ -1,0 +1,30 @@
+{
+  "id": "https://alekitos.github.io/frenologia-memes/iiif/fowlerbenevolence/manifest/canvas-0.json",
+  "items": [
+    {
+      "id": "https://alekitos.github.io/frenologia-memes/iiif/fowlerbenevolence/manifest/page-0.json",
+      "items": [
+        {
+          "id": "https://alekitos.github.io/frenologia-memes/iiif/fowlerbenevolence/manifest/image-0.json",
+          "items": [],
+          "type": "Annotation",
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "motivation": "painting",
+          "target": "https://alekitos.github.io/frenologia-memes/iiif/fowlerbenevolence/manifest/canvas-0.json",
+          "body": {
+            "id": "https://alekitos.github.io/frenologia-memes/iiif/fowlerbenevolence/0/full/max/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 329,
+            "width": 480
+          }
+        }
+      ],
+      "type": "AnnotationPage"
+    }
+  ],
+  "type": "Canvas",
+  "width": 480,
+  "height": 329,
+  "annotations": []
+}

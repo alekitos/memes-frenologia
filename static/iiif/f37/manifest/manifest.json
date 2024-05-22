@@ -1,0 +1,42 @@
+{
+  "id": "https://alekitos.github.io/frenologia-memes/iiif/f37/manifest/manifest.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": [
+      "bone_hercules"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://alekitos.github.io/frenologia-memes/iiif/f37/manifest/canvas-0.json",
+      "items": [
+        {
+          "id": "https://alekitos.github.io/frenologia-memes/iiif/f37/manifest/page-0.json",
+          "items": [
+            {
+              "id": "https://alekitos.github.io/frenologia-memes/iiif/f37/manifest/image-0.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://alekitos.github.io/frenologia-memes/iiif/f37/manifest/canvas-0.json",
+              "body": {
+                "id": "https://alekitos.github.io/frenologia-memes/iiif/f37/0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 500,
+                "width": 1000
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1000,
+      "height": 500,
+      "annotations": []
+    }
+  ]
+}

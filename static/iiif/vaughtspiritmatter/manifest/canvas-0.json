@@ -1,0 +1,30 @@
+{
+  "id": "https://alekitos.github.io/frenologia-memes/iiif/vaughtspiritmatter/manifest/canvas-0.json",
+  "items": [
+    {
+      "id": "https://alekitos.github.io/frenologia-memes/iiif/vaughtspiritmatter/manifest/page-0.json",
+      "items": [
+        {
+          "id": "https://alekitos.github.io/frenologia-memes/iiif/vaughtspiritmatter/manifest/image-0.json",
+          "items": [],
+          "type": "Annotation",
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "motivation": "painting",
+          "target": "https://alekitos.github.io/frenologia-memes/iiif/vaughtspiritmatter/manifest/canvas-0.json",
+          "body": {
+            "id": "https://alekitos.github.io/frenologia-memes/iiif/vaughtspiritmatter/0/full/max/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 830,
+            "width": 1066
+          }
+        }
+      ],
+      "type": "AnnotationPage"
+    }
+  ],
+  "type": "Canvas",
+  "width": 1066,
+  "height": 830,
+  "annotations": []
+}
