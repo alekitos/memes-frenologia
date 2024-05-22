@@ -1,0 +1,21 @@
+{
+  "id": "https://alekitos.github.io/frenologia-memes/iiif/wellsamativeness/manifest/page-0.json",
+  "items": [
+    {
+      "id": "https://alekitos.github.io/frenologia-memes/iiif/wellsamativeness/manifest/image-0.json",
+      "items": [],
+      "type": "Annotation",
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "motivation": "painting",
+      "target": "https://alekitos.github.io/frenologia-memes/iiif/wellsamativeness/manifest/canvas-0.json",
+      "body": {
+        "id": "https://alekitos.github.io/frenologia-memes/iiif/wellsamativeness/0/full/max/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 505,
+        "width": 468
+      }
+    }
+  ],
+  "type": "AnnotationPage"
+}
