@@ -1,0 +1,42 @@
+{
+  "id": "https://alekitos.github.io/frenologia-memes/iiif/smallbrainsonic.png/manifest/manifest.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": [
+      "smallbrainscream_brittish"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://alekitos.github.io/frenologia-memes/iiif/smallbrainsonic.png/manifest/canvas-0.json",
+      "items": [
+        {
+          "id": "https://alekitos.github.io/frenologia-memes/iiif/smallbrainsonic.png/manifest/page-0.json",
+          "items": [
+            {
+              "id": "https://alekitos.github.io/frenologia-memes/iiif/smallbrainsonic.png/manifest/image-0.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://alekitos.github.io/frenologia-memes/iiif/smallbrainsonic.png/manifest/canvas-0.json",
+              "body": {
+                "id": "https://alekitos.github.io/frenologia-memes/iiif/smallbrainsonic.png/0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 688,
+                "width": 748
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 748,
+      "height": 688,
+      "annotations": []
+    }
+  ]
+}

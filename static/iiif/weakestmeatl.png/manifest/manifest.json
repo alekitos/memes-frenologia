@@ -1,0 +1,42 @@
+{
+  "id": "https://alekitos.github.io/frenologia-memes/iiif/weakestmeatl.png/manifest/manifest.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": [
+      "weakest_meatl"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://alekitos.github.io/frenologia-memes/iiif/weakestmeatl.png/manifest/canvas-0.json",
+      "items": [
+        {
+          "id": "https://alekitos.github.io/frenologia-memes/iiif/weakestmeatl.png/manifest/page-0.json",
+          "items": [
+            {
+              "id": "https://alekitos.github.io/frenologia-memes/iiif/weakestmeatl.png/manifest/image-0.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://alekitos.github.io/frenologia-memes/iiif/weakestmeatl.png/manifest/canvas-0.json",
+              "body": {
+                "id": "https://alekitos.github.io/frenologia-memes/iiif/weakestmeatl.png/0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 585,
+                "width": 640
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 640,
+      "height": 585,
+      "annotations": []
+    }
+  ]
+}

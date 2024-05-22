@@ -1,0 +1,30 @@
+{
+  "id": "https://alekitos.github.io/frenologia-memes/iiif/wellseyebrow.png/manifest/canvas-0.json",
+  "items": [
+    {
+      "id": "https://alekitos.github.io/frenologia-memes/iiif/wellseyebrow.png/manifest/page-0.json",
+      "items": [
+        {
+          "id": "https://alekitos.github.io/frenologia-memes/iiif/wellseyebrow.png/manifest/image-0.json",
+          "items": [],
+          "type": "Annotation",
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "motivation": "painting",
+          "target": "https://alekitos.github.io/frenologia-memes/iiif/wellseyebrow.png/manifest/canvas-0.json",
+          "body": {
+            "id": "https://alekitos.github.io/frenologia-memes/iiif/wellseyebrow.png/0/full/max/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 362,
+            "width": 462
+          }
+        }
+      ],
+      "type": "AnnotationPage"
+    }
+  ],
+  "type": "Canvas",
+  "width": 462,
+  "height": 362,
+  "annotations": []
+}

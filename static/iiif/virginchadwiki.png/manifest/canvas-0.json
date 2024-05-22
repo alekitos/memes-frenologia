@@ -1,0 +1,30 @@
+{
+  "id": "https://alekitos.github.io/frenologia-memes/iiif/virginchadwiki.png/manifest/canvas-0.json",
+  "items": [
+    {
+      "id": "https://alekitos.github.io/frenologia-memes/iiif/virginchadwiki.png/manifest/page-0.json",
+      "items": [
+        {
+          "id": "https://alekitos.github.io/frenologia-memes/iiif/virginchadwiki.png/manifest/image-0.json",
+          "items": [],
+          "type": "Annotation",
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "motivation": "painting",
+          "target": "https://alekitos.github.io/frenologia-memes/iiif/virginchadwiki.png/manifest/canvas-0.json",
+          "body": {
+            "id": "https://alekitos.github.io/frenologia-memes/iiif/virginchadwiki.png/0/full/max/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 504,
+            "width": 895
+          }
+        }
+      ],
+      "type": "AnnotationPage"
+    }
+  ],
+  "type": "Canvas",
+  "width": 895,
+  "height": 504,
+  "annotations": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "https://alekitos.github.io/frenologia-memes/iiif/bigbrainhorse.png/manifest/canvas-0.json",
+  "items": [
+    {
+      "id": "https://alekitos.github.io/frenologia-memes/iiif/bigbrainhorse.png/manifest/page-0.json",
+      "items": [
+        {
+          "id": "https://alekitos.github.io/frenologia-memes/iiif/bigbrainhorse.png/manifest/image-0.json",
+          "items": [],
+          "type": "Annotation",
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "motivation": "painting",
+          "target": "https://alekitos.github.io/frenologia-memes/iiif/bigbrainhorse.png/manifest/canvas-0.json",
+          "body": {
+            "id": "https://alekitos.github.io/frenologia-memes/iiif/bigbrainhorse.png/0/full/max/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1030,
+            "width": 1420
+          }
+        }
+      ],
+      "type": "AnnotationPage"
+    }
+  ],
+  "type": "Canvas",
+  "width": 1420,
+  "height": 1030,
+  "annotations": []
+}
