@@ -29,4 +29,3 @@ Eje Moral de Masculinidad: Otro hallazgo interesante es el vínculo entre la pro
 
 
 
-También pudes agregar un texto que aparecerá al interior de la tarjeta, debajo del título, siguiendo esta convención:  `![TEXTO ALTERNATIVO](!soyjakquijote )`
